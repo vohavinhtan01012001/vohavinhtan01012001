@@ -22,4 +22,3 @@ Become a strong Fullstack Developer (Frontend-focused)
 ## 📫 Contact
 - Email: vohavinhtan6@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vohavinhtan01012001)
