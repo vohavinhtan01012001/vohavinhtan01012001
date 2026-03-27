@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Tan Vo (Võ Hà Vinh Tân)
 
-<!--
-**vohavinhtan01012001/vohavinhtan01012001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer with 2+ years of experience, focusing on building scalable, high-performance web applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- React, Next.js, TypeScript
+- Tailwind CSS, Ant Design
+- Redux Toolkit, Zustand, React Query
+- Node.js, FastAPI
+- MySQL, PostgreSQL, Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 What I’ve built
+- E-commerce platforms (Magento integration)
+- ERP systems (CRM, HRM, CMS)
+- Real-time chat & notification systems
+- AI-powered marketing tools
+- Mobile app with React Native (Expo)
+
+## 🎯 Goal
+Become a strong Fullstack Developer (Frontend-focused)
+
+## 📫 Contact
+- Email: vohavinhtan6@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vohavinhtan01012001)
