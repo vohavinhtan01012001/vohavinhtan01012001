@@ -3,7 +3,7 @@
 
 ---
 
-🚀 I’m a Frontend Developer with 2+ years of experience building scalable, high-performance web applications.  
+🚀 I’m a Frontend Developer experience building scalable, high-performance web applications.  
 I focus on clean architecture, reusable components, and smooth user experiences.
 
 ---
